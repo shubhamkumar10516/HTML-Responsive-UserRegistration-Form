@@ -49,3 +49,12 @@ error-output{
     font-style: italic;
     color: red;
 }
+
+@media screen and (max-width : 400px){
+    body{
+    width: 100%;
+    max-width: 400px;
+    margin:0px auto;
+    padding:0px;
+    }
+}
