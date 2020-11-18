@@ -39,3 +39,13 @@ label{
 input{
     flex: auto;
 }
+
+button{
+    width: 70%;
+    margin: 0 auto;
+}
+error-output{
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+}
